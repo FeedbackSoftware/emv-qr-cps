@@ -1,8 +1,13 @@
 {
-    "name": "arcticfalcon/emv-qr-cps",
+    "name": "feedbacksoftware/emv-qr-cps",
     "description": "EMV QR Code Specification for Payment Systems: Merchant-Presented Mode",
     "type": "library",
-    "keywords": ["emv", "qr", "cps", "merchant"],
+    "keywords": [
+        "emv",
+        "qr",
+        "cps",
+        "merchant"
+    ],
     "homepage": "https://github.com/arcticfalcon/emv-qr-cps",
     "license": "MIT",
     "authors": [
